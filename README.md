@@ -18,7 +18,7 @@
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Rosé Pine with App](https://raw.githubusercontent.com/cement-drinker/wofi-rose-pine/main/assets/1673086866_grim.png)
 
 ## Thanks to
 
