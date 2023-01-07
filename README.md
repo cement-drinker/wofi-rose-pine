@@ -21,7 +21,11 @@
 
 ## Gallery
 
-![Rosé Pine with App](https://raw.githubusercontent.com/cement-drinker/wofi-rose-pine/main/assets/1673086866_grim.png)
+![Rose Pine Dawn](https://raw.githubusercontent.com/cement-drinker/wofi-rose-pine/main/assets/1673086866_grim.png)
+
+[Rose Pine Moon](https://raw.githubusercontent.com/cement-drinker/wofi-rose-pine/main/assets/1673091086_grim.png)
+
+[Rose Pine Dark](https://raw.githubusercontent.com/cement-drinker/wofi-rose-pine/main/assets/1673091063_grim.png)
 
 ## Thanks to
 
