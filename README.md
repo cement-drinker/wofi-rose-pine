@@ -11,6 +11,7 @@
     </a>
 </p>
 ## Requirements
+
 1. The Monofur Nerd Font (Change in the config if you want)
 ## Usage
 1. Clone this repo
